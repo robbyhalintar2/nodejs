@@ -9155,6 +9155,27 @@
         "setDone": "",
         "paygc": "",
         "expired": 0
+      },
+      "6283150869541@s.whatsapp.net": {
+        "name": "-",
+        "goodbye": true,
+        "welcome": true,
+        "promote": true,
+        "demote": true,
+        "mute": false,
+        "captionPay": "",
+        "nsfw": false,
+        "sewa": false,
+        "antilink": false,
+        "antionce": false,
+        "setWelcome": "",
+        "setLeave": "",
+        "setPromote": "",
+        "setDemote": "",
+        "setProses": "",
+        "setDone": "",
+        "paygc": "",
+        "expired": 0
       }
     },
     "database": {},
